@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alish7175
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MEAN stack
-- 💞️ I’m looking to collaborate on Angular projects
+- 🌱 I am working on MERN apps
+- 💞️ Ready to collaborate
 - 📫 How to reach me https://www.linkedin.com/in/alish-madhukar-661a271a3/
 
 <!---
