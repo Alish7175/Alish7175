@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Alish7175
-- 👀 I’m interested in Web Development
-- 🌱 I am working on MERN apps
+- 👀 Nodejs developer
+- 🌱 I work on MERN stack apps
 - 💞️ Ready to collaborate
-- 📫 How to reach me https://www.linkedin.com/in/alish-madhukar-661a271a3/
+- 📫 How to reach me https://www.linkedin.com/in/alish-madhukar-661a271a3/ or mail me at:alishmadhukar75@gmail.com
 
 <!---
 Alish7175/Alish7175 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
