@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alish7175
 - 👀 Nodejs developer
-- 🌱 I work on MERN stack apps
+- 🌱 I work on Nodejs, Express, Reactjs, RDMS and NOSQL databases, jest, Prisma, Redis, TailwindCSS, ShadCN, RTK, Tanstack react query, Zustand.
 - 💞️ Ready to collaborate
 - 📫 How to reach me https://www.linkedin.com/in/alish-madhukar-661a271a3/ or mail me at:alishmadhukar75@gmail.com
 
